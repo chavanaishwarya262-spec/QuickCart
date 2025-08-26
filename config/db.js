@@ -1,5 +1,4 @@
 import mongoose from "mongoose";
-import { GlobalLayoutRouterContext } from "next/dist/shared/lib/app-router-context.shared-runtime";
 
 let cached = global.mongoose
 
